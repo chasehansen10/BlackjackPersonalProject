@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\BlackJackPersonalProject\bin\Debug\BlackJackPersonalProject.exe.config
+C:\Users\Technologist SP\Documents\BlackJackPersonalProject\bin\Debug\BlackJackPersonalProject.exe
+C:\Users\Technologist SP\Documents\BlackJackPersonalProject\bin\Debug\BlackJackPersonalProject.pdb
+C:\Users\Technologist SP\Documents\BlackJackPersonalProject\obj\Debug\BlackJackPersonalProject.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\BlackJackPersonalProject\obj\Debug\BlackJackPersonalProject.exe
+C:\Users\Technologist SP\Documents\BlackJackPersonalProject\obj\Debug\BlackJackPersonalProject.pdb
